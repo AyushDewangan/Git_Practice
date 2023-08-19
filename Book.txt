@@ -12,3 +12,8 @@ git rm --cached <filename> -> remove file from your local git commit not from re
 
 git tag -> It shows the list of tags
 git tag v1.0 -m "First Release Tag" -> Tag is a kind of release version(v1.0) and add message with tag "First Release Tag"
+//Till this code tag store till our local system
+
+git push origin v1.0 -> push the tag into remote git report repository
+//now the code tag store till our remote repository, we have to push our code into remote git repository
+
