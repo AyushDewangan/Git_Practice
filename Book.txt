@@ -7,3 +7,5 @@ git commit -m "first Commit" -> commiting code in .git (local system)
 
 git diff -> provide a difference between previous and new filein text format.(use when file is on local not in staged)
 git diff --staged -> provide a difference between previous and new filein text format.(use when file is on in staged 'git add')
+
+git rm --cached <filename> -> remove file from your local git commit not from remote git commit
