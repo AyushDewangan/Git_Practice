@@ -17,3 +17,4 @@ git tag v1.0 -m "First Release Tag" -> Tag is a kind of release version(v1.0) an
 git push origin v1.0 -> push the tag into remote git report repository
 //now the code tag store till our remote repository, we have to push our code into remote git repository
 
+git clone https://-------------------------.com/.git -> how to clone the code
