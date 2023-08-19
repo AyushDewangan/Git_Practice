@@ -1,0 +1,3 @@
+git status - Check status
+git init - initialize the git into folder (master by default)
+git init -b main - initialize the git into folder (as a main)
