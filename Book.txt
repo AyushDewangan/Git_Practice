@@ -22,3 +22,5 @@ git clone https://-------------------------.com/.git -> how to clone the code
 git branch	-> show list of branch
 git branch feature1 -> create new branch which name is feature1
 git checkout feature1 -> switch branch into feature1
+
+git branch -d feature1 -> this code will help you to delete a branch
