@@ -5,4 +5,5 @@ git log -> see the commits
 git add <FileName with extension> -> add file in .git stage (local system)
 git commit -m "first Commit" -> commiting code in .git (local system)
 
-git diff -> provide a difference between previous and new filein text format.
+git diff -> provide a difference between previous and new filein text format.(use when file is on local not in staged)
+git diff --staged -> provide a difference between previous and new filein text format.(use when file is on in staged 'git add')
