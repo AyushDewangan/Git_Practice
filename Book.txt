@@ -9,3 +9,6 @@ git diff -> provide a difference between previous and new filein text format.(us
 git diff --staged -> provide a difference between previous and new filein text format.(use when file is on in staged 'git add')
 
 git rm --cached <filename> -> remove file from your local git commit not from remote git commit
+
+git tag -> It shows the list of tags
+git tag v1.0 -m "First Release Tag" -> Tag is a kind of release version(v1.0) and add message with tag "First Release Tag"
