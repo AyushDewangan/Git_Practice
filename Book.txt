@@ -18,3 +18,7 @@ git push origin v1.0 -> push the tag into remote git report repository
 //now the code tag store till our remote repository, we have to push our code into remote git repository
 
 git clone https://-------------------------.com/.git -> how to clone the code
+
+git branch	-> show list of branch
+git branch feature1 -> create new branch which name is feature1
+git checkout feature1 -> switch branch into feature1
