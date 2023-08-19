@@ -1,3 +1,6 @@
-git status - Check status
-git init - initialize the git into folder (master by default)
-git init -b main - initialize the git into folder (as a main)
+git status -> Check status
+git init -> initialize the git into folder (master by default)
+git init -b main -> initialize the git into folder (as a main)
+git log -> see the commits
+git add <FileName with extension> -> add file in stage
+git commit -m "first Commit" -> 
