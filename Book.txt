@@ -28,3 +28,5 @@ git branch -d feature1 -> this code will help you to delete a branch
 git push origin newBranch -> If we create a new branch and it not reflecting into github then we have to push that branch into github, in code we have to mention that branch.
 
 22-08-2023
+
+git merge feature -> Merging the code feature branch to main branch, for that we have to checkout on main/master branch then we have to run that command with which branch we want to merge.
