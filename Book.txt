@@ -31,3 +31,5 @@ git push origin newBranch -> If we create a new branch and it not reflecting int
 
 git merge feature -> Merging the code feature branch to main branch, for that we have to checkout on main/master branch then we have to run that command with which branch we want to merge. from this code we merge our code from local now we have to push that merge into main/master.
 git push origin master -> push merge code to repository server.
+
+02-09-2023
