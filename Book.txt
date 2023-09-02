@@ -34,3 +34,6 @@ git push origin master -> push merge code to repository server.
 
 02-09-2023
 Creating confilct
+
+
+git checkout commit_is -> we can checkout into any commit for code view and also we can create new branch from there "git branch abcs"
