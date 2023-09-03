@@ -37,3 +37,6 @@ Creating confilct
 
 
 git checkout commit_is -> we can checkout into any commit for code view and also we can create new branch from there "git branch abcs"
+
+git stash -> git stash command use to store uncommited code changes in other storage(The code which is not ready to commit till yet)
+git stash apply - > apply stash changes into current code.
